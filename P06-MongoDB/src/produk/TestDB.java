@@ -60,7 +60,7 @@ public class TestDB {
             System.out.println("============================");
             System.out.println("Pencarian data berdasarkan id : "+id);
             System.out.println(myDoc.toJson());
-            
+            //faqih zada
             //mengedit data
             Document docs = new Document();
             docs.put("nama", "Canon");
